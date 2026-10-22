@@ -1,9 +1,9 @@
-package main 
+package main
 
 import "fmt"
 
 func main(){
-	var day int = 0
+	var day int = 2
 
 	switch day {
 	case 1:
